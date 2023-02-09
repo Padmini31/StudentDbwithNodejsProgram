@@ -1,0 +1,23 @@
+{
+  "name": "com",
+  "version": "1.0.0",
+  "main": "fi.js",
+  "dependencies": {
+    "mongodb": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Padmini31/BackendAssignment-Day-25-01.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Padmini31/BackendAssignment-Day-25-01/issues"
+  },
+  "homepage": "https://github.com/Padmini31/BackendAssignment-Day-25-01#readme",
+  "description": ""
+}
